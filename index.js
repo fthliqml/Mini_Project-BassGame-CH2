@@ -1,31 +1,3 @@
-/*
-// adding event to first button tag
-// If function have param, do () => func
-document.querySelector("button").addEventListener("click", () => handleClick("Iqmal"));
-
-function handleClick(greet) {
-  alert(`hello FSW 2 ${greet}`);
-}
-
-document.querySelector("button").addEventListener("click", () => {
-  alert("hallo kedua");
-});
-
-// get drum d (index array 3)
-document.querySelectorAll("button")[3].addEventListener("click", () => {
-  alert("hallo kedua");
-});
-*/
-
-/*
-// example of "this"
-for (let i = 0; i < lengthOfButton; i++) {
-  document.querySelectorAll("button")[i].addEventListener("click", function () {
-    console.log(this); // get button element that currently selected
-  });
-}
-*/
-
 const lengthOfButton = document.querySelectorAll("button").length;
 
 // using object
