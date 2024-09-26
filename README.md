@@ -10,7 +10,7 @@
 
 A web-based drum game that has keywords for each drum. When the user presses a drum using the mouse, the selected drum will produce sounds and effects. The same thing will happen if the user presses the drum keyword on the keyboard.
 
-## 🔎 Flowchart
+## `🔎 Flowchart`
 
 ### Keydown & Click Event
 
@@ -19,7 +19,7 @@ A web-based drum game that has keywords for each drum. When the user presses a d
     <img src="https://github.com/user-attachments/assets/a16397fc-6bc6-4bfd-b029-a9ed5b1a7841" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## ˙✧˖°📷 ༘ ⋆｡° Documentation
+## `˙✧˖°📷 ༘ ⋆｡° Documentation`
 
 Screenshot of the program running on the web
 
